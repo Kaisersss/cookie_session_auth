@@ -2,20 +2,25 @@
 a. app.js
 b. register
 
-![1758802980618](image/README/1758802980618.png)
+<img width="975" height="636" alt="image" src="https://github.com/user-attachments/assets/2c49c794-4781-4e57-a8e9-636317f99d1d" />
 
-![1758803177613](image/README/1758803177613.png)c.login
+<img width="975" height="404" alt="image" src="https://github.com/user-attachments/assets/04cae893-d9e1-48e2-9fa1-5abafa06c3bd" />
 
-![1758803535990](image/README/1758803535990.png)
+c.login
 
-![1758803587810](image/README/1758803587810.png)
+<img width="975" height="404" alt="image" src="https://github.com/user-attachments/assets/30c468dd-eca5-4a7a-b97b-f16298ac6957" />
+
+<img width="975" height="419" alt="image" src="https://github.com/user-attachments/assets/7201c0e5-186d-4110-96ae-baa52bfdcb18" />
 
 d.go to profile
 
-![1758803668143](image/README/1758803668143.png)
+<img width="975" height="601" alt="image" src="https://github.com/user-attachments/assets/415f2afd-61bd-4cea-9d29-394ad4d724a7" />
 
 e.go to logout and check cookie is deleted in database
 
-![1758803747037](image/README/1758803747037.png)
+<img width="975" height="576" alt="image" src="https://github.com/user-attachments/assets/6ba175a5-6dde-4700-993a-13b67bdd0ff6" />
 
-check session ![1758803779999](image/README/1758803779999.png)
+check session
+
+<img width="975" height="476" alt="image" src="https://github.com/user-attachments/assets/f34abe49-e93e-4477-a8bc-4b469e221476" />
+
